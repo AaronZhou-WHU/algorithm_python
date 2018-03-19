@@ -23,6 +23,7 @@ def longestCommonPrefix(self, strs):
         res += strs[0][i]
     return res
 
+
 '''
 方法2
 '''
