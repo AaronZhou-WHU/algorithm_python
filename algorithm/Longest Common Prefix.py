@@ -34,3 +34,4 @@ def longestCommonPrefix(self, strs):
     :rtype: str
     """
     return os.path.commonprefix(strs)
+
