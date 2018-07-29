@@ -14,18 +14,8 @@
       <file leaf-file-name="20180227.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/20180227.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
+            <state relative-caret-position="57">
               <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="5" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="20180226.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20180226.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -44,7 +34,7 @@
       <file leaf-file-name="20180314.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/20180314.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
+            <state relative-caret-position="19">
               <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
               <folding />
             </state>
@@ -54,7 +44,7 @@
       <file leaf-file-name="20180305.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/20180305.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="380">
               <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
@@ -64,7 +54,7 @@
       <file leaf-file-name="20180307.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/20180307.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
+            <state relative-caret-position="798">
               <caret line="42" column="16" lean-forward="false" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
               <folding />
             </state>
@@ -84,18 +74,28 @@
       <file leaf-file-name="Longest Common Prefix.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Longest Common Prefix.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="524">
+            <state relative-caret-position="684">
               <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Valid Parentheses.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Valid Parentheses.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Valid Parentheses.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="152">
               <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="20180729Find All Numbers Disappeared in an Array.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/20180729Find All Numbers Disappeared in an Array.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="68" lean-forward="false" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
               <folding />
             </state>
           </provider>
@@ -104,7 +104,7 @@
       <file leaf-file-name="20180306.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/20180306.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
+            <state relative-caret-position="76">
               <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="26" />
               <folding />
             </state>
@@ -137,6 +137,7 @@
         <option value="$PROJECT_DIR$/Roman to Integer.py" />
         <option value="$PROJECT_DIR$/Longest Common Prefix.py" />
         <option value="$PROJECT_DIR$/Valid Parentheses.py" />
+        <option value="$PROJECT_DIR$/20180729Find All Numbers Disappeared in an Array.py" />
       </list>
     </option>
   </component>
@@ -177,8 +178,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -190,10 +189,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -207,7 +208,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.20180310">
+  <component name="RunManager" selected="Python.20180729Find All Numbers Disappeared in an Array">
     <configuration name="20180304" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -221,24 +222,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="algorithm" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20180304.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="20180307" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="algorithm" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20180307.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -298,20 +281,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="20180729Find All Numbers Disappeared in an Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="algorithm" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20180729Find All Numbers Disappeared in an Array.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.20180304" />
-      <item index="1" class="java.lang.String" itemvalue="Python.20180307" />
-      <item index="2" class="java.lang.String" itemvalue="Python.20180308" />
-      <item index="3" class="java.lang.String" itemvalue="Python.20180309" />
-      <item index="4" class="java.lang.String" itemvalue="Python.20180310" />
+      <item index="1" class="java.lang.String" itemvalue="Python.20180308" />
+      <item index="2" class="java.lang.String" itemvalue="Python.20180309" />
+      <item index="3" class="java.lang.String" itemvalue="Python.20180310" />
+      <item index="4" class="java.lang.String" itemvalue="Python.20180729Find All Numbers Disappeared in an Array" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.20180310" />
-        <item index="1" class="java.lang.String" itemvalue="Python.20180309" />
-        <item index="2" class="java.lang.String" itemvalue="Python.20180308" />
-        <item index="3" class="java.lang.String" itemvalue="Python.20180304" />
-        <item index="4" class="java.lang.String" itemvalue="Python.20180307" />
+        <item index="0" class="java.lang.String" itemvalue="Python.20180729Find All Numbers Disappeared in an Array" />
+        <item index="1" class="java.lang.String" itemvalue="Python.20180310" />
+        <item index="2" class="java.lang.String" itemvalue="Python.20180309" />
+        <item index="3" class="java.lang.String" itemvalue="Python.20180308" />
+        <item index="4" class="java.lang.String" itemvalue="Python.20180304" />
       </list>
     </recent_temporary>
   </component>
@@ -362,19 +363,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/20180227.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="5" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/20180303.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -413,7 +405,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -429,7 +420,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -460,7 +450,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -476,7 +465,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -500,7 +488,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -516,7 +503,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -539,7 +525,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -555,7 +540,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -578,7 +562,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -594,7 +577,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -609,7 +591,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -625,7 +606,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -633,7 +613,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -649,7 +628,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -678,7 +656,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -686,13 +663,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/20180305.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="380">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
@@ -700,7 +676,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/20180306.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
+        <state relative-caret-position="76">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="26" />
           <folding />
         </state>
@@ -708,7 +684,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/20180227.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
+        <state relative-caret-position="57">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="5" selection-end-column="3" />
           <folding />
         </state>
@@ -716,7 +692,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/20180307.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
+        <state relative-caret-position="798">
           <caret line="42" column="16" lean-forward="false" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
           <folding />
         </state>
@@ -732,7 +708,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/20180314.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
+        <state relative-caret-position="19">
           <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
           <folding />
         </state>
@@ -740,7 +716,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Longest Common Prefix.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
+        <state relative-caret-position="684">
           <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding />
         </state>
@@ -756,8 +732,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Valid Parentheses.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="152">
           <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20180729Find All Numbers Disappeared in an Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="68" lean-forward="false" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
           <folding />
         </state>
       </provider>
